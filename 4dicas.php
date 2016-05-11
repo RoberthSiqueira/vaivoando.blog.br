@@ -1,36 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-
-<head>
-
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
-    <meta name="author" content="">
-
-    <title>Vai Voando | Viagem de avião</title>
-
-    <!-- Bootstrap Core CSS -->
-    <link href="css/bootstrap.min.css" rel="stylesheet">
-
-    <!-- Custom CSS -->
-    <link href="css/clean-blog.min.css" rel="stylesheet">
-
-    <!-- Custom Fonts -->
-    <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
-    <link href='http://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
-    <link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
-
-    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
-    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-    <!--[if lt IE 9]>
-        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
-    <![endif]-->
-
-</head>
-
+<?php include 'head.php'; ?>
 <body>
 
     <!-- Navigation -->
@@ -75,7 +45,7 @@
                     <div class="post-heading">
                         <h1>4 dicas para viajar sem gastar muito dinheiro</h1>
                         <h2 class="subheading">Dica para você que curte viajar, mas está desempregado, é estudante, torrou todo o salário ou é um mão-de- vaca mesmo.</h2>
-                        <span class="meta">Adicionado em 09 de Maio de 2016</span>
+                        <span class="meta">Adicionado em Maio de 2016</span>
                     </div>
                 </div>
             </div>
@@ -149,6 +119,7 @@ utilizar sites de milhagem que fazem a intermediação entre quem possui milhas
 acumuladas e quem está procurando uma passagem de avião mais barata. Os valores
 
 das passagens aéreas nesses sites podem chegar a ser <b>até 80% mais baratas</b>.</p>
+<p>O site <a href="http://www.maxmilhas.com.br" target="_blank">Max Milhas</a>, por exemplo, é uma boa opção para comprar passagens mais baratas.</p>
 </li>
 <p>
 <li>

@@ -5,7 +5,7 @@
 
                 <div class="col-md-6">
                   <div class="footer_news">
-                    <img src="img/capa-ebook.png" height="130px">
+                    <img src="img/capaebook.png" height="130px">
                     <p>Baixe nosso E-Book “Guia Prático Para Viajar Pelo Brasil”</p>
                           
                             <!-- Button trigger modal -->
@@ -22,13 +22,13 @@
                                     <h4 class="modal-title" id="myModalLabel">Guia Prático Para Viajar Pelo Brasil</h4>
                                   </div>
                                   <div class="modal-body">
-                                          <img src="img/capa-ebook.png" class="img-responsive" height="300px" style="margin-bottom:15px;" margin-top:"15px">
+                                          <img src="img/capaebook.png" class="img-responsive" height="300px" style="margin-bottom:15px;" margin-top:"15px">
                                           <span id="msg_success_ebook" class="alert alert-success hidden"></span>
 		                          <span id="msg_error_ebook" class="alert alert-danger hidden"></span>
                                           <form id="formEbook" action="#">      
                                                 <div class="form-group">
                                                   <!-- <label for="exampleInputPassword1">Cidade</label> -->
-                                                  <input type="text" class="form-control" id="cidadeEb" name="cidadeEbook" placeholder="Cidade">
+                                                  <input type="text" class="form-control" id="cidadeEb" name="cityEbook" placeholder="Cidade">
                                                 </div>
                                                 <div class="form-group">
                                                   <!-- <label for="exampleInputPassword1">E-mail</label> -->
@@ -39,10 +39,11 @@
                                           <a href="assets/politica_de_privacidade.pdf" style="font-size:12px;">Política de privacidade</a>
 
                                   </div>
-                                  <div class="modal-footer">
-                                    <!-- <button type="button" class="btn btn-default" data-dismiss="modal">Close</button> -->
-                                    <button onclick="gravarEbook(); return false;" class="btn btn-primary btn-sm">Download</button>
-                                  </div>
+	                                  <div class="modal-footer">
+	                                    <!-- <button type="button" class="btn btn-default" data-dismiss="modal">Close</button> -->
+	                                    <button onclick="gravarEbook(); return false;" class="btn btn-primary btn-sm">Download</button>
+	                                  </div>
+                                  </form>
                                 </div>
                               </div>
                             </div>
@@ -83,7 +84,12 @@
                             </a>
                         </li>
                     </ul>
-
+                    <ul class="list-inline text-center">
+                    	<li>
+                    		<a href="assets/politica_de_privacidade.pdf" style="font-size:12px;">Política de privacidade</a>
+                    	</li>
+                    </ul>
+		
 		<p class="copyright text-muted" style="color: #ffffff;">Copyright &copy; 2016 - Gama BootCamp 2016 - #Team 3</p>
                 </div>
             </div>
@@ -106,7 +112,7 @@
 	                $("#msg_success_prop").html(data);
 	                $("#msg_success_prop").removeClass('hidden');
 	                $("#msg_error_prop").addClass('hidden');
-	                window.open("4dicas.php", "_self");
+	                window.open("economizarcompra.php", "_self");
 	                }
 	                else {
 	                  $("#msg_error_prop").html(data);
@@ -125,10 +131,11 @@
 	              url: "./system/ebook.inc.php",
 	              data: $("#formEbook").serialize(),
 	              success: function(data){
-	                if (data == "Adicionado com Sucesso"){
+	                if (data == "Boa leitura"){
 	                $("#msg_success_ebook").html(data);
 	                $("#msg_success_ebook").removeClass('hidden');
 	                $("#msg_error_ebook").addClass('hidden');
+	                window.open("assets/e-book-vai-voando.pdf", "_self");
 	                }
 	                else {
 	                  $("#msg_error_ebook").html(data);

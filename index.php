@@ -1,50 +1,6 @@
-<?php
-  
-?>
 <!DOCTYPE html>
 <html lang="pt-br">
-
-<head>
-    <meta charset="utf-8">
-    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
-    <meta name="author" content="GamaAcademy">
-
-    <link rel="apple-touch-icon" sizes="57x57" href="assets/img/airplane.ico/apple-icon-57x57.png">
-    <link rel="apple-touch-icon" sizes="60x60" href="assets/img/airplane.ico/apple-icon-60x60.png">
-    <link rel="apple-touch-icon" sizes="72x72" href="assets/img/airplane.ico/apple-icon-72x72.png">
-    <link rel="apple-touch-icon" sizes="76x76" href="assets/img/airplane.ico/apple-icon-76x76.png">
-    <link rel="apple-touch-icon" sizes="114x114" href="assets/img/airplane.ico/apple-icon-114x114.png">
-    <link rel="apple-touch-icon" sizes="120x120" href="assets/img/airplane.ico/apple-icon-120x120.png">
-    <link rel="apple-touch-icon" sizes="144x144" href="assets/img/airplane.ico/apple-icon-144x144.png">
-    <link rel="apple-touch-icon" sizes="152x152" href="assets/img/airplane.ico/apple-icon-152x152.png">
-    <link rel="apple-touch-icon" sizes="180x180" href="assets/img/airplane.ico/apple-icon-180x180.png">
-    <link rel="icon" type="image/png" sizes="192x192"  href="assets/img/airplane.ico/android-icon-192x192.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="assets/img/airplane.ico/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="96x96" href="assets/img/airplane.ico/favicon-96x96.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="assets/img/airplane.ico/favicon-16x16.png">
-    <link rel="manifest" href="assets/img/airplane.ico/manifest.json">
-    <meta name="msapplication-TileColor" content="#ffffff">
-    <meta name="msapplication-TileImage" content="assets/img/airplane.ico/ms-icon-144x144.png">
-    <meta name="theme-color" content="#ffffff">
-
-    <title>Vai Voando</title>
-
-    <!-- Bootstrap Core CSS -->
-    <link href="css/bootstrap.min.css" rel="stylesheet">
-
-    <!-- Custom CSS -->
-    <link href="css/clean-blog.min.css" rel="stylesheet">
-
-    <!-- Custom Fonts -->
-    <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
-    <link href='http://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
-    <link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
-
-</head>
-
+	<?php include 'head.php'; ?>
 <body>
     <!-- Navigation -->
     <nav class="navbar navbar-default navbar-custom navbar-fixed-top">
@@ -104,6 +60,90 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+            
+            	<div class="post-preview">
+                    <a href="bagagemmao.php">
+                        <h2 class="post-title">
+                            O que pode ou não pode como bagagem de mão
+                        </h2>
+                        <h3 class="post-subtitle">
+                        	Vai viajar e bateu aquela dúvida sobre o que pode e não pode levar na bagagem de mãos? Preparamos um resumo com tudo o que você precisa saber.
+                        </h3>
+                        <img src="img/bagagemmao.jpg" class="img-responsive" width="750px" style="margin-top: 15px; margin-bottom: 15px;"/>
+                    </a>
+                    <p class="post-meta">Adicionado em Maio de 2016</p>
+                    <img src="">
+                </div>
+                <hr>
+            	
+            	<div class="post-preview">
+                    <a href="viagemnegocios.php">
+                        <h2 class="post-title">
+                            10 dicas para uma viagem a negócios tranquila
+                        </h2>
+                        <h3 class="post-subtitle">
+                            Viajar a negócios pode ser tão divertido quando
+
+viajar de férias. Por isso, selecionamos algumas dicas para garantir que sua viajem
+
+aconteça sem sustos.
+                        </h3>
+                        <img src="img/viagemnegocios.jpg" class="img-responsive" width="750px" style="margin-top: 15px; margin-bottom: 15px;"/>
+                    </a>
+                    <p class="post-meta">Adicionado em Maio de 2016</p>
+                    <img src="">
+                </div>
+                <hr>
+
+		<div class="post-preview">
+                    <a href="economizarcompra.php">
+                        <h2 class="post-title">
+                            Aprenda a economizar na compra de passagens
+                        </h2>
+                        <h3 class="post-subtitle">
+                            O valor da passagem aérea é um dos grandes vilões na hora de planejar a
+
+viagem. Confira algumas dicas para conseguir o melhor preço.
+                        </h3>
+                        <img src="img/economizarcompra.jpg" class="img-responsive" width="750px" style="margin-top: 15px; margin-bottom: 15px;"/>
+                    </a>
+                    <p class="post-meta">Adicionado em Maio de 2016</p>
+                    <img src="">
+                </div>
+                <hr>
+
+		<div class="post-preview">
+                    <a href="desmistificandorio.php">
+                        <h2 class="post-title">
+                            Desmistificando: o Rio de Janeiro além das praias
+                        </h2>
+                        <h3 class="post-subtitle">
+                            Sede dos jogos olímpicos, o Rio de Janeiro possui atrações para todos os gostos. Separamos algumas dicas incríveis para você conhecer o que a cidade tem de melhor.
+                        </h3>
+                        <img src="img/desmistificando.jpg" class="img-responsive" width="750px" style="margin-top: 15px; margin-bottom: 15px;"/>
+                    </a>
+                    <p class="post-meta">Adicionado em Maio de 2016</p>
+                    <img src="">
+                </div>
+                <hr>
+                
+                
+		<div class="post-preview">
+                    <a href="batevoltaferiado.php">
+                        <h2 class="post-title">
+                            Bate e volta no feriado: o que levar na bolsa
+                        </h2>
+                        <h3 class="post-subtitle">
+                            Para você que gosta de fazer viagens curtas ou dar uma escapada da rotina no final de semana.
+                        </h3>
+                        <img src="img/feriado.jpg" class="img-responsive" width="750px" style="margin-top: 15px; margin-bottom: 15px;"/>
+                    </a>
+                    <p class="post-meta">Adicionado em Maio de 2016</p>
+                    <img src="">
+                </div>
+                <hr>
+                
+                
             	<div class="post-preview">
                     <a href="4dicas.php">
                         <h2 class="post-title">
@@ -114,24 +154,22 @@
                         </h3>
                         <img src="img/4dicascapa.jpg" class="img-responsive" width="750px" style="margin-top: 15px; margin-bottom: 15px;"/>
                     </a>
-                    <p class="post-meta">Adicionado em 09 de Maio de 2016</p>
+                    <p class="post-meta">Adicionado em Maio de 2016</p>
                     <img src="">
                 </div>
                 <hr>
-            
-            
-            
+          
                 <div class="post-preview">
                     <a href="destinos_brasil.php">
                         <h2 class="post-title">
                             4 destinos espetaculares para conhecer no Brasil
                         </h2>
                         <h3 class="post-subtitle">
-                            Conheça quatro destinos brasileiros que estão fora da rota tradicional de viagem. São destinos de beleza encantadoras com opções de lazer para todos os gostos: praias, passeios culturais e aventureiros.
+                            Conheça quatro destinos brasileiros que estão fora da rota tradicional de viagem. São destinos de belezas encantadoras com opções de lazer para todos os gostos: praias, passeios culturais e aventureiros.
                         </h3>
                         <img src="img/destino.jpg" class="img-responsive" width="750px" style="margin-top: 15px; margin-bottom: 15px;"/>
                     </a>
-                    <p class="post-meta">Adicionado em 07 de Maio de 2016</p>
+                    <p class="post-meta">Adicionado em Maio de 2016</p>
                     <img src="">
                 </div>
                 <hr>
@@ -145,7 +183,7 @@
                         </h3>
                         <img src="img/olimpiadas.jpg" class="img-responsive" width="750px" style="margin-top: 15px; margin-bottom: 15px;"/>
                     </a>
-                    <p class="post-meta">Adicionado em 07 de Maio de 2016</p>
+                    <p class="post-meta">Adicionado em Maio de 2016</p>
                 </div>
                 <hr>
                 <div class="post-preview">
@@ -158,7 +196,7 @@
                         </h3>
                         <img src="img/aviao_4.jpg" class="img-responsive" width="750px" style="margin-top: 15px; margin-bottom: 15px;"/>
                     </a>
-                    <p class="post-meta">Adicionado em 07 de Maio de 2016</p>
+                    <p class="post-meta">Adicionado em Maio de 2016</p>
                 </div>
                 <hr>
                 <!-- Pager -->
