@@ -63,62 +63,70 @@ viagem. Confira algumas dicas para conseguir o melhor preço.</h2>
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
 
-<p>Na hora de escolher o destino da viajem, somos muito dependentes do valor das
+<p>Na hora de escolher o destino da viagem, somos muito dependentes do
 
-passagens aéreas e das promoções ofertadas pelas companhias, principalmente no
+valor das passagens aéreas e das promoções ofertadas pelas
 
-Brasil. Os preços oscilam muito e é bom estar de olho nestas dicas para garantir o
+companhias, principalmente no Brasil. Os preços oscilam muito e é bom
 
-menor valor. Bastam alguns minutos, enquanto você decide o melhor horário, por
+estar de olho nestas dicas para garantir o menor valor. Bastam alguns
 
-exemplo, para o reajuste acontecer de forma drástica.</p>
-  <p>Quanto mais planejado você for, mas barato você consegue pagar nas passagens. Os
+minutos, enquanto você decide o melhor horário, por exemplo, para o
 
-voos com menos procura e com muitos assentos livres tendem a ter preços bem mais
+reajuste acontecer de forma drástica.</p>
+<p>Quanto mais planejado você for, mas barato você consegue pagar nas
 
-em conta. Vale a pena comparar os voos por meio de sites como Decolar.com e
+passagens. Os voos com menos procura e com muitos assentos livres
 
-Submarino Viagens para saber as melhores opções. No entanto, esses sites cobram
+tendem a ter preços bem mais em conta. Vale a pena comparar os voos
 
-taxas de serviço. Depois de achar uma boa oferta, compre a passagem diretamente no
+por meio de sites como <a href="http://www.decolar.com/" target="_blank">Decolar.com</a> e <a href="https://www.submarinoviagens.com.br/" target="_blank">Submarino Viagens</a> para saber as
+
+melhores opções. No entanto, esses sites cobram taxas de serviço.
+
+Depois de achar uma boa oferta, compre a passagem diretamente no
 
 site da companhia.</p>
+<p>Se o preço ainda tiver um pouco salgado, e se a viagem ainda estiver
 
-<p>Se o preço ainda tiver um pouco salgado, e se a viajem ainda estiver distante, você
+distante, você pode arriscar esperar uma dessas promoções relâmpagos.
 
-pode arriscar esperar uma dessas promoções relâmpagos. Nada é garantido, mas
+Nada é garantido, mas muitas vezes acontece de pagar até 10 vezes
 
-muitas vezes acontece de pagar até 10 vezes menos no trecho. Sites como Melhores
+menos no trecho. Sites como <a href="http://www.melhoresdestinos.com.br/" target="_blank">Melhores
 
-Destinos e Promoção Relâmpago de Passagens costumam listar as promoções e
+Destinos</a> e <a href="http://promocaorelampagopassagens.com/" target="_blank">Promoção Relâmpago de Passagens</a> de Passagens costumam listar as promoções e avisar aos usuários
 
-avisar aos usuários cadastrados.</p>
+cadastrados.</p>
 
-<p>Uma outra opção que costuma ser muito atraente é a compra de passagens por
+<p>Uma outra opção que costuma ser muito atraente é a compra de
 
-milhas. Diferentemente da política de preços em reais, o valor por milhas sofre bem
+passagens por milhas. Diferentemente da política de preços em reais, o
 
-menos reajustes. Se você é um viajante assíduo ou utiliza muito o cartão de crédito,
+valor por milhas sofre bem menos reajustes. Se você é um viajante
 
-essa pode ser uma ótima alternativa. Mesmo que você não tenha todo os pontos
+assíduo ou utiliza muito o cartão de crédito, essa pode ser uma ótima
 
-necessários, as companhias te dão a opção de pagar o trecho parte por milha e parte
+alternativa. Mesmo que você não tenha todo os pontos necessários, as
+
+companhias te dão a opção de pagar o trecho parte por milha e parte
 
 em reais, ou ainda, comprar as milhas necessárias.</p>
+<p>Além disso, existe ainda uma última opção para adquirir as passagens à
 
-<p>Além disso, existe ainda uma última opção para adquirir as passagens à um preço
+um preço bem mais razoável, que fica ainda mais atraente se o voo
 
-bem mais razoável, que fica ainda mais atraente se o voo desejado é próximo ou está
+desejado é próximo ou está muito cheio. É o serviço oferecido pelo site
 
-muito cheio. É o serviço oferecido pelo site MaxMilhas, que conecta usuários que
+<a href="https://www.maxmilhas.com.br" target="_blank">MaxMilhas</a>, que conecta usuários que desejam vender milhas àqueles
 
-desejam vender milhas àqueles que estão pesquisando os voos. Além de apresentar o
+que estão pesquisando os voos. Além de apresentar o valor das
 
-valor das passagens no site das companhias, eles oferecem a opção de comprar o
+passagens no site das companhias, eles oferecem a opção de comprar o
 
-trecho por milhas de um dos seus usuários. Algumas vezes é possível adquirir
+trecho por milhas de um dos seus usuários. Algumas vezes é possível
 
-passagens com até 80% de desconto.</p>
+adquirir passagens com até 80% de desconto.</p>
 
 <p>Agora, Vai Voando! Tire a viagem dos seus sonhos do papel e boa viagem!</p>
                 </div>

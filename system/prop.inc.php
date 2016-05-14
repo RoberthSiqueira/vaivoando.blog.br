@@ -8,11 +8,14 @@ $conn = new mysqli("localhost","magal709_root","GoFlyPass", $db,"2083");
 if ($conn->connect_error) {
      die("Connection failed: " . $conn->connect_error);
  }
- 
- 
 
-$email = $_POST["emailProp"];
-$cidade = $_POST["cityProp"];
+if ($_POST["emailModal"] == '' && $_POST["cityModal"] == '') {
+  $email = $_POST["emailProp"];
+  $cidade = $_POST["cityProp"];
+} else {
+  $email = $_POST["emailModal"];
+  $cidade = $_POST["cityModal"];
+}
 
 validaemail($conn, $email, $cidade);
 
@@ -20,7 +23,7 @@ function validaemail($conn, $email, $cidade) {
  //verifica se e-mail esta no formato correto de escrita
  if (trim($email) == '') {
    die("E-mail vazio.");
- } 
+ }
  if (trim($cidade) == '') {
    die("Cidade em branco.");
  }
@@ -52,8 +55,10 @@ function inserirEmail($conn, $email, $cidade) {
   $date = date('Y-m-d H-m-s');
   $sql = "INSERT INTO tbl_propaganda (email, city, dateTime) VALUES ('$email', '$cidade', '$date')";
   if ($conn->query($sql) === TRUE) {
-    $mensagem = "Boa escolha";
-    die($mensagem);
+      $mensagem = "Boa escolha";
+      die($mensagem);
+  } else {
+  	die(mysqli_error($conn));
   }
 }
 

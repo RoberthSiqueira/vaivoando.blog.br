@@ -35,7 +35,44 @@
         <!-- /.container -->
     </nav>
 
-		<?php include 'modal.php';?>
+    <!-- MODAL -->
+
+<div class="modal fade" id="meumodal">
+<div class="modal-dialog">
+<div class="modal-content">
+
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Fechar</span></button>
+</div>
+
+<img src="img/modal.png" class="img-responsive"/>
+<div class="modal-body">
+<h3 class="modal-titulo">Olá! Que bom que você está aqui!.</h3>
+<p style="line-height: 1.5;margin: 30px 0;font-size: 16px;margin-bottom: 10px;margin-top: 20px;">Aproveite e cadastre seu e-mail para obter nosso material e dicas exclusivas de como conseguir passagens aéreas pagando até 80% mais barato.</p>
+</div>
+<div class="col-md-12">
+          <form id="formEbook" action="#">      
+                <div class="form-group">
+                  <!-- <label for="exampleInputPassword1">Cidade</label> -->
+                  <input type="text" class="form-control" id="cidadeEb" name="cityEbook" placeholder="Cidade">
+                </div>
+                <div class="form-group">
+                  <!-- <label for="exampleInputPassword1">E-mail</label> -->
+                  <input type="email" class="form-control" id="emaileb" name="emailEbook" placeholder="E-mail">
+                </div>
+          </form>
+</div>
+<div class="modal-footer">
+<button type="button" class="btn btn-primary">Enviar</button>
+</div>
+
+</div><!-- /.modal-content -->
+</div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+
+
+
+
 
     <!-- Page Header -->
     <!-- Set your background image for this header on the line below. -->
@@ -60,51 +97,6 @@
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
             
             	<div class="post-preview">
-                    <a href="tipoviajante.php">
-                        <h2 class="post-title">
-                            Que tipo de viajante é você?
-                        </h2>
-                        <h3 class="post-subtitle">
-	                    Faça o quizz e descubra que tipo de viajante você é!
-                        </h3>
-                        <img src="img/kombi.jpg" class="img-responsive" width="750px" style="margin-top: 15px; margin-bottom: 15px;"/>
-                    </a>
-                    <p class="post-meta">Adicionado em Maio de 2016</p>
-                    <img src="">
-                </div>
-                <hr>
-                
-            	<div class="post-preview">
-                    <a href="malaperfeita.php">
-                        <h2 class="post-title">
-                            Como fazer a mala perfeita?
-                        </h2>
-                        <h3 class="post-subtitle">
-	                        Fazendo a mala de última hora? Veja dicas para fazer a mala perfeita, rápida e aproveitando melhor o espaço.
-                        </h3>
-                        <img src="img/bags.jpg" class="img-responsive" width="750px" style="margin-top: 15px; margin-bottom: 15px;"/>
-                    </a>
-                    <p class="post-meta">Adicionado em Maio de 2016</p>
-                    <img src="">
-                </div>
-                <hr>
-            
-            	<div class="post-preview">
-                    <a href="cidadesinverno.php">
-                        <h2 class="post-title">
-                            7 cidades para viajar (e curtir) no inverno
-                        </h2>
-                        <h3 class="post-subtitle">
-                        	Com o inverno chegando nada melhor do que aproveitar para dar uma pausa na rotina e curtir o clima frio nas cidades que mais combinam com a estação. Confira algumas opções para viajar.
-                        </h3>
-                        <img src="img/seta.jpg" class="img-responsive" width="750px" style="margin-top: 15px; margin-bottom: 15px;"/>
-                    </a>
-                    <p class="post-meta">Adicionado em Maio de 2016</p>
-                    <img src="">
-                </div>
-                <hr>
-
-            	<div class="post-preview">
                     <a href="bagagemmao.php">
                         <h2 class="post-title">
                             O que pode ou não pode como bagagem de mão
@@ -118,7 +110,7 @@
                     <img src="">
                 </div>
                 <hr>
-
+            	
             	<div class="post-preview">
                     <a href="viagemnegocios.php">
                         <h2 class="post-title">
@@ -169,8 +161,8 @@ viagem. Confira algumas dicas para conseguir o melhor preço.
                     <img src="">
                 </div>
                 <hr>
-
-
+                
+                
 		<div class="post-preview">
                     <a href="batevoltaferiado.php">
                         <h2 class="post-title">
@@ -185,8 +177,8 @@ viagem. Confira algumas dicas para conseguir o melhor preço.
                     <img src="">
                 </div>
                 <hr>
-
-
+                
+                
             	<div class="post-preview">
                     <a href="4dicas.php">
                         <h2 class="post-title">
@@ -201,7 +193,7 @@ viagem. Confira algumas dicas para conseguir o melhor preço.
                     <img src="">
                 </div>
                 <hr>
-
+          
                 <div class="post-preview">
                     <a href="destinos_brasil.php">
                         <h2 class="post-title">
@@ -253,9 +245,9 @@ viagem. Confira algumas dicas para conseguir o melhor preço.
     </div>
 
     <hr>
-
+    
     <?php include 'footer.php';?>
-
+    
     </body>
 
 </html>

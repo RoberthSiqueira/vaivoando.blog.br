@@ -43,8 +43,8 @@
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
                     <div class="post-heading">
-                        <h1>Bate e volta no feriado: o que levar na bolsa</h1>
-                        <h2 class="subheading">Para você que gosta de fazer viagens curtas ou dar uma escapada da rotina no final de semana.</h2>
+                        <h1>Que tipo de viajante é você?</h1>
+                        <h2 class="subheading">Faça o quizz e descubra que tipo de viajante você é!</h2>
                         <span class="meta">Adicionado em Maio de 2016</span>
                     </div>
                 </div>
@@ -60,50 +60,8 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-
-<p>O feriado de Corpus Christi está chegando e você já está planejando dar uma prolongada no
-final de semana para fugir um pouco do estresse do trabalho?</p>
-<p>Saber o que levar na bolsa é importante para não passar nenhum aperto, mesmo que seja uma
-
-viagem de poucos dias. O que você vai levar na mala depende do lugar que você vai, do
-
-objetivo da viagem e do clima do local.</p>
-<img class="img-responsive" src="img/feriado.jpg" alt="" style="margin-top:30px;">
-<p><b>Roupas</b></p>
-  <p>Considerando que serão poucos dias de viagem, aposte em roupas mais básicas. Se for para a
-
-praia leve roupas mais leves e claras, mas se for para a montanha invista em alguma calça
-
-confortável e um casaco mais quente. Tenha em mente todos os passeios e coisas que você
-
-quer fazer e imagine as roupas adequadas para cada um. Seja econômico! São poucos dias,
-
-então nada de levar muitas peças.</p>
-
-<p>P.S.: existem algumas mochilas que são dobráveis e cabem no bolso. São super práticas para
-
-você levar para a praia, fazer uma pequena trilha ou passear pela cidade. É um bom
-
-investimento para quem gosta de viajar.</p>
-
-<p><b>Acessórios</b></p>
-  <p>Não esqueça de itens imprescindíveis para quase todos os lugares, mas que todo viajante
-
-geralmente esquece. Boné, óculos de sol, carregadores e fones de ouvido, câmera e protetor
-
-solar. Além das coisas básicas como itens de higiene pessoal, documentos, celular e remédios
-
-que você costuma tomar.</p>
-
-<p><b>Bate e volta a trabalho</b></p>
-  <p>Dependendo do objetivo, lembre-se de levar um terno e sapatos sociais. Considere levar
-
-também uma camisa extra caso ocorra algum incidente.</p>
-
-<p>Gostou dessas dicas? Assine nossa newsletter e confira semanalmente dicas como
-
-essa. Fique tranquilo, não vamos te encher de spam.</p>
-
+                  <script type="text/javascript" src="//cdn.playbuzz.com/widget/feed.js"></script>
+<div class="pb_feed" data-embed-by="b93482cf-fed5-469d-b134-2aede72be330" data-game="/stefanov10/a-que-tipo-de-viajante-voc" ></div>
                 </div>
             </div>
         </div>

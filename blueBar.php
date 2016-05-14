@@ -5,7 +5,7 @@
             <div class="row">
                   <div class="col-md-9">
                       <div class="cadastro_1">
-                          <h1 class="cadastro_text">Compre passagens com até 80% de desconto!</h1>
+                          <h1 class="cadastro_text">*Cadastre-se e concorra a cupons de desconto para a compra de passagens na MaxMilhas</h1>
                       </div>
                   </div>
                   <div class="container">

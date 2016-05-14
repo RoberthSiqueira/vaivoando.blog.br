@@ -104,7 +104,7 @@ unha, por exemplo); substâncias explosivas ou inﬂamáveis, químicas ou tó
 possam colocar em risco a integridade física de pessoas ou a segurança do avião.</p>
 
 <p><b>O que <u>pode</u> ser levado como bagagem de mão</b></p>
-<p>USegundo a Anac, você pode levar:</p>
+<p>Segundo a Anac, você pode levar:</p>
 
 <ul>
   <li>Uma bolsa de mão, maleta ou equipamento que possa ser acomodado embaixo do assento do passageiro ou no compartimento próprio da aeronave na cabine;</li>
